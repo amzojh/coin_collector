@@ -2,7 +2,7 @@ alembic==0.9.9
 certifi==2018.4.16
 chardet==3.0.4
 idna==2.6
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 mysql-connector==2.1.6
 python-dateutil==2.7.3
